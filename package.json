@@ -1,5 +1,5 @@
 {
-  "name": "phpkosrt",
+  "name": "phpksort",
   "version": "1.0.0",
   "description": "a php ksort function written by javascript",
   "main": "index.js",
@@ -11,9 +11,10 @@
     "url": "git+https://github.com/Leungkingman/phpksort.git"
   },
   "keywords": [
-    "ksort"
+    "ksort",
+    "javascript"
   ],
-  "author": "Leungkingman",
+  "author": "leungkingman",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Leungkingman/phpksort/issues"
